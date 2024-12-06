@@ -11,7 +11,7 @@ export default function App() {
             source={{ uri: 'https://media.licdn.com/dms/image/v2/D4E35AQHG1xILfP7z2A/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1731311539435?e=1734123600&v=beta&t=baJmQ1OdrWTqRpbHwiYdz6I5HMxvLvpnrc2XzGLnlrA' }}
             style={styles.profileImage}
           />
-          <Text style={styles.name}>Dhruvil Gabani</Text>
+          <Text style={styles.name}>Dhruvil Gabani dio</Text>
           <Text style={styles.title}>Graphics Designer</Text>
         </View>
 
